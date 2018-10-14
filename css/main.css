@@ -384,6 +384,8 @@ a:hover{
 .team.social li a{
   display: inline-block;
   margin-right:  5px;
+    
+}
 
 .team-member {
   margin: 15px 10px;
@@ -703,3 +705,7 @@ a:hover{
     align-self: center;
   }
 }
+  
+ 
+
+ 
