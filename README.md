@@ -1,2 +1,2 @@
 # sebim423.github.io
-BIM423-Software Engineering Group-5 Project Web Page
+BIM423-Software Engineering Project Web Page
